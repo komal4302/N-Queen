@@ -1,1 +1,1 @@
-# N-Queen
+# N-Queen Problem
